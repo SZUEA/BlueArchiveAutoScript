@@ -1,0 +1,2 @@
+# blue_archive_auto_script
+用于实现蔚蓝档案自动化
